@@ -1,0 +1,26 @@
+## Visual Studio Temporary Files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## SQL Server Database Files (Physical files)
+# We don't upload .mdf or .ldf because we use the SQL Script in the /Database folder
+*.mdf
+*.ldf
+
+## Others
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
