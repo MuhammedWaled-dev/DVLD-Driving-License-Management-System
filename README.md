@@ -51,8 +51,6 @@
 
 \- \*\*Detailed Profiles:\*\* Unified person management system for both staff and citizens.
 
-\- \*\*RBAC:\*\* Secure login system with role-based permissions and activity logging.
-
 
 
 \### 📝 2. Application Tracking
